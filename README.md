@@ -15,3 +15,4 @@ python asshanded.py
 
 * Resume the song that was playing
 * Max out the volume (and then return it to normal)
+* Mix in the other versions of Ass Handed (and choose a special time to play Ass Handed Reprise)
