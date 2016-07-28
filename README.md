@@ -7,6 +7,13 @@ You get your ass handed to you every day
 Every day you get your ass in your hand
 ```
 
+## Requirements
+
+```
+pip install soco
+pip install requests
+```
+
 ## Usage
 
 ```
