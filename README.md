@@ -10,3 +10,8 @@ Every day you get your ass in your hand
 ```
 python asshanded.py
 ```
+
+## TODO
+
+* Resume the song that was playing
+* Max out the volume (and then return it to normal)
