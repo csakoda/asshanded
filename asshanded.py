@@ -13,6 +13,7 @@ if __name__ == '__main__':
 
     print coordinators
     for c in coordinators:
+        c.volume = 100
         c.play_uri(
             'http://assets.phishtracks.com/system/tracks/song_files/000/030/006/original/9da84ab9cfbd2ff0dcfe66df8d6d98e281d314fc.mp3')
         
